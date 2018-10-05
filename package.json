@@ -1,0 +1,24 @@
+{
+  "name": "AOT",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaubee/AOT.git"
+  },
+  "keywords": [],
+  "author": "Gaubee <gaubeebangeel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gaubee/AOT/issues"
+  },
+  "homepage": "https://github.com/Gaubee/AOT#readme",
+  "devDependencies": {
+    "@types/node": "^10.11.4"
+  }
+}
