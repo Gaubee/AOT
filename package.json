@@ -1,8 +1,9 @@
 {
   "name": "aot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/src/index.js",
+  "type": "dist/src/index.d.ts",
   "scripts": {
     "dev": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
